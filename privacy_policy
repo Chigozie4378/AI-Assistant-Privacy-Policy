@@ -1,0 +1,121 @@
+Privacy Policy
+
+Privacy Policy for AI Assistant
+
+Last Updated: 15th of August 2024
+
+Introduction
+
+Welcome to AI Assistant, an advanced AI assistant application meticulously crafted to provide users with a powerful and versatile tool for interacting with artificial intelligence. Developed by ChigzeAI, this application harnesses the capabilities of the Cohere model to offer an array of features tailored to various needs—from general reasoning to task-specific AI training.
+
+This privacy policy outlines how we handle and protect your data while using the application. We are committed to safeguarding your privacy and ensuring that your interactions with the AI remain secure, private, and entirely within your control.
+
+Information Collection
+
+At AI Assistant, we prioritize user privacy and have taken deliberate steps to minimize data collection. Here’s how we approach information collection:
+
+No User Registration Required:
+Users are not required to register or create an account to use the application. This means that we do not collect any personally identifiable information (PII) such as names, email addresses, or contact information.
+
+Chat Interactions:
+All chat interactions with the AI, whether through the general AI model, Web AI, or custom-trained models, are stored locally on your mobile device. We do not have access to these conversations, and they are not transmitted to our servers.
+
+Training Data:
+When you upload documents, paste website URLs, or connect databases to train the AI, this data is processed temporarily to facilitate the training. Once the training is complete, the data is deleted from our servers. We do not retain any of your training data.
+
+Payment Information:
+For users who subscribe to premium features, financial transactions are handled entirely by the Google Play Store or Apple App Store, depending on your device. We do not collect, store, or have access to your payment information, which is managed under the security and privacy policies of these platforms.
+
+Use of Information
+
+Given our commitment to privacy, the use of information within AI Assistant is strictly limited to the functionalities necessary to deliver a seamless user experience. Here’s how we handle your information:
+
+Chat Data:
+Your chat data remains on your device. It is used solely to facilitate your interactions with the AI. We do not access, analyze, or store your chat data on any external servers.
+
+Training Data:
+The documents, websites, and databases you provide for training your AI model are used only for the duration of the training process. Once the training is complete, all data is deleted from our servers, ensuring that your information remains private.
+
+Subscription Data:
+Subscription details are managed by the respective app stores (Google Play Store or Apple App Store). We do not use your subscription information for any purpose other than enabling premium features within the application.
+
+Data Sharing and Disclosure
+
+We understand the importance of confidentiality and assure you that your data is not shared with any third parties. Our policy on data sharing and disclosure is straightforward:
+
+No Third-Party Sharing:
+We do not share your data with any third parties. This includes any information related to your interactions with the AI, training data, or subscription details.
+
+Internal Data Handling:
+The limited data that is temporarily handled during AI training is not shared, disclosed, or used for any purpose beyond the immediate training process. Once training is complete, the data is deleted.
+
+Compliance with Legal Requirements:
+In the unlikely event that we are required by law to disclose any information, we will do so in compliance with legal obligations, while striving to protect your privacy to the fullest extent possible.
+
+Data Storage and Security
+
+The security of your data is paramount to us. Here’s how we ensure that your information is protected:
+
+Local Data Storage:
+All chat interactions and data used for AI training are stored locally on your mobile device. This ensures that you have complete control over your data. However, please be aware that uninstalling the application may result in the loss of your chat history and trained models.
+
+Server Security:
+For data that temporarily resides on our servers during the AI training process, we use Heroku, a secure and reliable platform that abstracts and encrypts your data. The data is deleted immediately after the training process is completed, ensuring that your information is not stored beyond what is necessary.
+
+Financial Information:
+Any financial information related to subscriptions is managed by the Google Play Store or Apple App Store. These platforms adhere to rigorous security standards to protect your payment data. We do not store or have access to your financial details.
+
+Data Retention:
+We do not retain any user data on our servers. The only data retained is what remains on your device, which you can manage and control directly.
+
+User Rights
+
+As a user of AI Assistant, you have specific rights regarding your data. We are committed to ensuring that these rights are upheld:
+
+Right to Access and Control Data:
+You have full access to and control over your chat interactions and any data used to train AI models. These are stored on your device, and you can edit, delete, or manage them as you see fit.
+
+Right to Data Deletion:
+Since we do not store your data on our servers, deletion of data can be done directly through the application. You can delete chat histories, training data, or even uninstall the app to remove all data from your device.
+
+Right to Manage Subscriptions:
+Any subscriptions made through the app are managed through the Google Play Store or Apple App Store. You can cancel subscriptions, request refunds, and manage your financial information directly through these platforms.
+
+Right to Privacy:
+We respect your right to privacy and do not require you to provide any personal data to use the application. All functionalities are accessible without needing to share personal information.
+
+Cookies and Tracking Technologies
+
+We are committed to a privacy-first approach in the design of AI Assistant. As such:
+
+No Cookies:
+We do not use cookies within the application. This ensures that your activities are not tracked or monitored.
+
+No Tracking Technologies:
+The application does not implement any tracking technologies, such as web beacons, pixel tags, or similar mechanisms. Your usage of the app is not recorded or analyzed for behavioral data.
+
+Children's Privacy
+
+We take the privacy of all users seriously, particularly when it comes to children. Given that AI Assistant does not require any personal information for use:
+
+No Data Collection:
+The application does not collect any personal information from users, including children. As a result, there are no specific age-related restrictions or requirements for using the app.
+
+Parental Guidance:
+While the app is designed to be safe for users of all ages, we recommend that children use the application under the supervision of a parent or guardian to ensure a safe and informed experience.
+
+Updates to the Privacy Policy
+
+We are committed to keeping you informed about how we protect your data. The privacy policy may be updated from time to time, especially as new features are added to the application or in response to changes in legal or regulatory requirements. Here’s how updates will be communicated:
+
+In-App Notifications:
+Any significant changes to the privacy policy will be communicated through the app’s description on the Google Play Store or Apple App Store during updates. Users are encouraged to review the privacy policy periodically to stay informed.
+
+Version History:
+The privacy policy will include a “Last Updated” date at the top to indicate when the most recent changes were made. Previous versions of the policy may be available upon request.
+
+Contact Information
+
+We value your feedback and are here to assist with any questions or concerns you may have regarding this privacy policy or your experience with AI Assistant. Please feel free to reach out to us:
+
+Email: chigzeai@gmail.com
